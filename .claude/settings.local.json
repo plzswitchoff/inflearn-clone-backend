@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__serena__list_dir",
+      "mcp__serena__read_file",
+      "mcp__serena__activate_project",
+      "Bash(pnpm add:*)",
+      "mcp__serena__create_text_file",
+      "mcp__serena__replace_content",
+      "Bash(test:*)",
+      "Bash(cat:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
